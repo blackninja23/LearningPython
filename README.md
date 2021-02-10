@@ -17,5 +17,11 @@ To run Any Program of python
 Also in Any Programming Language, It is imporant to understand it's syntaxt
    
            https://github.com/blackninja23/LearningPython/blob/main/PythonSyntax
-           
      
+Variables in python
+             
+              https://github.com/blackninja23/LearningPython/blob/main/VariablePython.py
+              
+              https://github.com/blackninja23/LearningPython/blob/main/PythonSyntax
+              
+              
