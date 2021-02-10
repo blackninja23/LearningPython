@@ -14,3 +14,8 @@ To run Any Program of python
           with version, you can run the program
           With our sample (python HelloWorld.py)
 
+Also in Any Programming Language, It is imporant to understand it's syntaxt
+   
+           https://github.com/blackninja23/LearningPython/blob/main/PythonSyntax
+           
+     
