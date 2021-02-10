@@ -1,0 +1,12 @@
+First you need check if python is install on your PC
+
+               For Windows
+               C:\Users\Your Name>python --version
+
+               For Linux or Mac
+               python --version
+
+If it shows version that meaning that you have successful install
+
+
+If it does not show , you can download python from https://www.python.org
