@@ -1,0 +1,82 @@
+You can interact with Python in Two Ways
+    
+     1.Command Line
+     2.Save file with extension .py
+
+Python Indentation
+
+     Indentation refers to the spaces at the beginning of a code line
+     
+     Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important
+     
+     Python uses indentation to indicate a block of code
+
+     Example:
+
+            if 5 > 2:
+             print("Five is greater than two!")
+
+       From our Example
+
+          We see from print,it start after word i this mean that if statement interact with print function
+
+      This is what we call Identation
+
+      To handle this identation easily from myself, I use Sublime Text
+
+
+Python Variable
+    
+    What is varibale?
+
+        Variables are containers for storing data values
+
+    
+     Python has no command for declaring a variable
+
+     A variable is created the moment you first assign a value to it
+
+     You simply say
+            
+            #Variables do not need to be declared with any particular type
+
+               x=5
+               Y="Hello, World"
+               X='Hello, World'
+            
+            #Specify data type of variable
+
+               x = str(3)    # x will be '3'
+               y = int(3)    # y will be 3
+               z = float(3)  # z will be 3.0 
+            
+            #You can get the data type of a variable with the type() function
+
+               x = 5
+               y = "John"
+               print(type(x))
+               print(type(y))
+
+            #String variables can be declared either by using single or double quotes
+
+               Y="blackninja23"
+               #Single or double quote for String, It is same things
+               X='blackninja23'
+
+            #Variable names are case-sensitive
+                
+                a=5
+                A="Hello"
+                #a and A variable are different variable
+
+Python Comments
+
+    Python has commenting capability for the purpose of in-code documentation.
+
+    Comments start with a #, and Python will render the rest of the line as a comment:
+        
+        Example
+
+            Comments in Python:
+                #This is a comment.
+                print("Hello, World!")
